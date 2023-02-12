@@ -1,0 +1,17 @@
+.login {
+    background-image: url('https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.loginForm label {
+    margin: 10px 0;
+}
+
+.loginForm input {
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid lightgrey;
+}
