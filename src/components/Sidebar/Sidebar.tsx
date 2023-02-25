@@ -1,17 +1,9 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
-    faB,
     faBank,
-    faCheckSquare,
     faCoffee,
-    faDatabase,
-    faHouseLaptop,
-    faS,
-    faSearch,
     faVideoSlash,
-    faWindowMaximize,
 } from '@fortawesome/free-solid-svg-icons'
-import { library } from '@fortawesome/fontawesome-svg-core'
 import { faAddressBook } from '@fortawesome/free-regular-svg-icons'
 type Props = {}
 function Sidebar({}: Props) {
